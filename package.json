@@ -1,6 +1,6 @@
 {
-	"author": "Gianluca Geusa",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Gianluca Geusa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
